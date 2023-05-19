@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de2d1544-32b4-4550-bd29-38c375c86322": {
+      "ProjectGuid": "de2d1544-32b4-4550-bd29-38c375c86322",
+      "DisplayName": "sayi tahmini oyunu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

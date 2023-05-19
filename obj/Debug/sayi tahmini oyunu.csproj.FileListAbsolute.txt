@@ -1,0 +1,22 @@
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi_tahmini_oyunu.Form1.resources
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi_tahmini_oyunu.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\bin\Debug\sayi tahmini oyunu.exe.config
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\bin\Debug\sayi tahmini oyunu.exe
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\bin\Debug\sayi tahmini oyunu.pdb
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.exe
+C:\Users\eda öncel\Desktop\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.pdb
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\bin\Debug\sayi tahmini oyunu.exe.config
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\bin\Debug\sayi tahmini oyunu.exe
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\bin\Debug\sayi tahmini oyunu.pdb
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi_tahmini_oyunu.Form1.resources
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi_tahmini_oyunu.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.exe
+C:\Users\eda öncel\Desktop\görsel programlama\sayi tahmini oyunu\obj\Debug\sayi tahmini oyunu.pdb
